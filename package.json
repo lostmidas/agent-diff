@@ -2,6 +2,9 @@
   "name": "agent-diff",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": {
+    "agent-diff": "dist/cli/index.js"
+  },
   "scripts": {
     "build": "tsc",
     "dev": "ts-node src/cli/index.ts"

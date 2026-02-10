@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { Command } from "commander";
 import { isAddress } from "ethers";
 import { BaseRpcClient } from "../rpc/base-client";

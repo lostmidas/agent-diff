@@ -1,0 +1,25 @@
+{
+  "address": "0x4200000000000000000000000000000000000006",
+  "createdAt": "2026-02-10T02:51:31.000Z",
+  "snapshot": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "timestamp": 1770691891,
+    "lookbackWindow": {
+      "startDate": "2026-02-10T00:00:00.000Z",
+      "endDate": "2026-02-10T23:59:59.999Z",
+      "transactionCount": 1000
+    },
+    "contractInteractions": [
+      "0x4200000000000000000000000000000000000006"
+    ],
+    "tokenApprovals": [],
+    "volumeMetrics": {
+      "dailyAverage": 1000,
+      "trendDirection": "stable"
+    },
+    "gasUsage": {
+      "averageGasUsed": 36826,
+      "pattern": "low"
+    }
+  }
+}
