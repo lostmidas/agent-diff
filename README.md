@@ -1,4 +1,4 @@
-# 🤖 agent-diff
+# 🤖 Agent Diff
 
 ![agent-diff cover](assets/cover.png)
 
