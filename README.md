@@ -204,6 +204,6 @@ When contributing:
 - Ensure all tests pass (`npm test`)
 - Follow the existing code style
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
